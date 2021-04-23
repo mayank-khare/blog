@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi I'm Mayank. A Software Engineer by profession. I have a crave for writing down by perspectives around computers, tech and world.
+Hi I'm Mayank. A Software Engineer by profession. I have a crave for writing down my perspective around computers, tech and world.
 
 ### More Information
 
